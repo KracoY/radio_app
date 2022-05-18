@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "name": "Radio1",
+    "url": "http://icecast.vrtcdn.be/radio1-high.mp3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/VRT_Radio_1_logo.svg/1200px-VRT_Radio_1_logo.svg.png",
+    "genre": "nationaal"
+  },
+  {
+    "id": 2,
+    "name": "Radio1 classics",
+    "url": "http://icecast.vrtcdn.be/radio1_classics-high.mp3",
+    "logo": "https://cdn-profiles.tunein.com/s309221/images/logod.png?t=158654",
+    "genre": "klassiek"
+  },
+  {
+    "id": 3,
+    "name": "Radio1 - De Lage Landen Lijst",
+    "url": "http://icecast.vrtcdn.be/radio1_lagelanden-high.mp3",
+    "logo": "https://cds.radio1.be/sites/default/files/styles/800x800/public/article/2020_10/lllstreamwebsite-02.png?itok=U7Q2O8iP",
+    "genre": "nationaal"
+  },
+  {
+    "id": 4,
+    "name": "VRT Radio 2 Bene Bene",
+    "url": "http://icecast.vrtcdn.be/radio2_benebene-high.mp3",
+    "logo": "https://cdn-profiles.tunein.com/s309230/images/logog.png?t=1",
+    "genre": "pop"
+  },
+  {
+    "id": 5,
+    "name": "VRT Radio 2 Antwerpen",
+    "url": " http://icecast.vrtcdn.be/ra2ant-high.mp3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/VRT_Radio_2_logo.svg/1200px-VRT_Radio_2_logo.svg.png",
+    "genre": "pop , rock , regionaal"
+  },
+  {
+    "id": 6,
+    "name": "VRT Radio 2 Limburg",
+    "url": "http://icecast.vrtcdn.be/ra2lim-high.mp3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/VRT_Radio_2_logo.svg/1200px-VRT_Radio_2_logo.svg.png",
+    "genre": "pop , regionaal"
+  },
+  {
+    "id": 7,
+    "name": "VRT Radio 2 Oost-Vlaanderen",
+    "url": "http://icecast.vrtcdn.be/ra2ovl-high.mp3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/VRT_Radio_2_logo.svg/1200px-VRT_Radio_2_logo.svg.png",
+    "genre": "pop , regionaal"
+  },
+  {
+    "id": 8,
+    "name": "VRT Radio 2 Vlaams-Brabant",
+    "url": "http://icecast.vrtcdn.be/ra2vlb-high.mp3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/VRT_Radio_2_logo.svg/1200px-VRT_Radio_2_logo.svg.png",
+    "genre": "pop , regionaal"
+  },
+  {
+    "id": 9,
+    "name": "VRT Klara",
+    "url": "http://icecast.vrtcdn.be/klara-high.mp3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/VRT_Klara_logo.svg/1200px-VRT_Klara_logo.svg.png",
+    "genre": "klassiek"
+  },
+  {
+    "id": 10,
+    "name": "VRT Klara Continuo",
+    "url": "http://icecast.vrtcdn.be/klaracontinuo-high.mp3",
+    "logo": "https://www.jecoutelaradioenligne.com/wp-content/uploads/logo-klara-continuo-vrt.jpg",
+    "genre": "klassiek"
+  },
+  {
+    "id": 11,
+    "name": "VRT Studio Brussel",
+    "url": "http://icecast.vrtcdn.be/stubru-high.mp3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/VRT_StuBru_logo.svg/1200px-VRT_StuBru_logo.svg.png",
+    "genre": "rock , top40"
+  },
+  {
+    "id": 12,
+    "name": "MNM",
+    "url": "http://icecast.vrtcdn.be/mnm-high.mp3",
+    "logo": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAQEBYQEBMQEBAQEBAQEBAQEBAQEBAQFhYXFxYSFhYZHiohGRsmHBYWIjMiJistMTAwGCA1OjUvOSovMS0BCgoKDw4PFhEQGC0eHx4tLy8vLy8vLS8vLy8vLy0tLS8tLy0vLy8vLy8tLy8vLy8vLy8vLS0vLS8tLy0tLS8vL//AABEIAOEA4QMBIgACEQEDEQH/xAAcAAACAgMBAQAAAAAAAAAAAAABAgADBAUHBgj/xABJEAACAgECAwQECAoIBQUAAAABAgADEQQSBQYhEzFBUQciYXEUIzJCc4GRoTM1UlNicpOys9EVFiQlVHXB8HSxtMPhFzRDksL/xAAaAQADAQEBAQAAAAAAAAAAAAAAAQIDBAUG/8QAMBEAAgIBAgQEBAYDAQAAAAAAAAECEQMSIQQxQVETIoHwYXGRwTIzQqGx0SPh8QX/2gAMAwEAAhEDEQA/ANOrRw0xg0YPPcPknAyg0IaY4eNviM3AyQ8O6YweNvgQ4GRuk3zH3yb4BoMjfFLyjfBvgPwy4vELykvELwotYy1nlbPK2eVF4zaOMsZ5SzRWaVs0ZvGAWaVsZCYhMZvGJCYkYxYGiAYcSRgIBYoEcLCqy1VgQ5CqsvRJESZNaRGE5grSZFaSIkyESScWTIV7JJkbZIjHWaUPGDzFDQ75Z6jgZQeN2kxd8m+InwzL7STtJib43aQJ8Myu0k7SY2+TfAPDMk2RTZMffF3wH4ZebIC8pLxC8ZSxlrPFLRC0QmBaiOWiEwEwZjLSCTBJBAskgEOIQIBYAI4EIWOqwM5SIqy1UhRZeiRGE50BEmQiSIkvRJJyTmFElyrIqy1ViOSUhdsMfEkRnqPG7od0o3SbpsfUaC/fDvlG6TdAWgv3yb5TukzAWkyN8G6VbpN0A0Fu6TdKt0mYhaSzdJuleZMwHpH3SZiZhzAKGzJFjQAkOJAIQIEsgEcCRRLFWDIbIqy5VgRZeqxGEpBRJeiwIsuRZJyTmFFlyLAolqiI5pSColiiBRHAkmEmTEMkkdEWc/zJmJmTM3PstJZugzEzJmA9JbmTMrzJmImizMOZWDGzAVFmYMxAYcwFQ+YcxYAYCoeERRCICHEIgEIERA4EZRAoliiBm2FRLkWKol6LEYSkMiy5FioJcoknLOQyLLlEVBLVERyykFRLVECiMsRi2MI4gEgiMmGGSSAjm2ZMxcyZnQfcUNmHMWSAiyTMSMDABgYQYsgMCRwY0rBjCIkYR4kIgSxhGEURhAhjiOoiCWLEZsdRLVErUS5REYSY6CXoJWglyCI5pssQS5RK1lqxHNJliSwRFjiIwkWiMIgjCIyZYJIAZMxEDyRcwwJo5rJBBOk+7GkkkgIMb/fTqYgnUPRFyb2rDiGoX4tGzpUYdLLB/wDMR+Sp+T7RnwGc8uRY46mJRbdG/wCQvR1RVpt+vortvuw+y1QwoT5qYPzvEn6vDr6TUcl8MCMRo9MCFYg9kvQ4npZTq/wb/qN/yM8aeWcm22dCil0PlGo5Ue4Tovot5KGrb4XqkDaZCVqrYdL7O4kjxRfvPuOfNchcr2cRvWvqtNYV9RaPmp4Ip/KbBA+s+E+jdJpUprWqtQldahERRgKoGABPR4zPpuEeb/b37+GGKGrd8jT/ANS+Gf4PS/slnE+H6OpuMigopp/pF6uyI9TsxcyhMeWOmJ9Fz574X+PV/wA1s/6hpz8LJvXb6DzJeXbqdl/qZwz/AAem/ZLOW+knlD4DZ2+nXGltb5I7qbT8z2Ke8fWPKdxmHxLQ16ipqbVD12KVcHy8x5Ed4PsmGLPKEru0XkxKSrqfNFI9YfrKPvn0P/VDh3+E0/7NZxLmTl+zh+r7F8shYNVbjAsrz0P6w7iPP2ET6JnTxk7UHF87+xhw0d5JrlX3OD+kTRVUa966USqtUqIRBtUErknE6toOV9AaqydNQSa0JJQZJKjJnMvSp+Mn+jp/cnZuG/ga/ok/dEjPJ+Hj397CwJeLl27fc8Bz5yci1fCdLWqdmPjqqx0KfnFHmPH2e7rztJ9GTj/PfLPwO3tah/ZrW6Ad1Vh6mv3HvH1jwl8NnvyS9Dk/9Dha/wAkFt1/v+/r3PacrcC0lmjpd6a2dqwWZlBZj16ky3jXKGmupZaa0psGGrZBt9YfNbHzT3ffMzkz/wBhR9H/AKmbucssklNtPkz0IYYTxpSit0unw+pwW6pq3KOpV0JVlPeGHeJAZ0Xn3l3tlOqqXNtY+MUd9ij536yj7R7hObhp6OLIpxtHzHFcLLBk0vddH3XvZ/1RaDLAZQDGBlnG0W5hzKg0bdAjSW5klO+GAtJzuSSSdB9uGGCZ3AuEXa29NNSM2WnvOdqIPlWN5KB/LvMTdbsDd+j7lJuJanady6WrDaiwZGR4VKfym+4ZPln6L09K1oqIoVEAVFUYVVAwAB4DE1vLfA6tBpk01I9VOrOQN1jn5Vje0/d0HcJrefua04bpS4w2ot3Jp6z4v4u36C5BP1Dxnj5sjzTSj6L37o2SUVuZ68wUnX/0enrWrp31NpHdWA1aqh/SO/OPAAeYm1vQsjKO9lYDPdkicR9DV728WsttZnss0l7u7HLMxtoJJnc5GbGsctIRlas0fKXLtXDtKmnq6kANbZjDW24G5z9mAPAACPq+PVJrKtCPWuuV7GAP4KpVYhm9pIwB7CfDrXzfzHXw7TNe+Gc+pTVnBttI6L7vEnwAnJfRvrrdRxtL7m322i93b29m3QDwAGAB4ACaQxPIpZJfH1ZMpaWoo7vPnzhf49X/ADSz/qGn0HPnzhX49X/NLP47S+E/X8iM36fmfQc0/DeO13ai/Sj1btK6hlJ+WjKrCxfZ62D5H3ibicH5r4lbpON3X0nbYlqEfksvZV5RvNSOkywYvEcl1rb6orLk0U/idb5s5fr19HZtgWId9NmOqWD/APJ7iP8AUCb2arlzjVeu0631dzdGUn1q3Hykb2j7wQfGbWZNy/C+har8S6nEPSp+MbPo6f3J2bhv4Gv6JP3ROL+lY/3lZ9HT+5O0cO/A1/RV/uidPEfl4/fY5cH5uX5r7mFqONVpq00j+q11ZepiejMCcp78dR7j7M5fENFXfW1Vg3JYMMP+RB8CD1B9k5n6X3K6rTlSVYVMQykggh8gg+BnreReZhrqcOQNRUALV6DePCxR5Hx8j9UzliahGa9S4ZlLJLHL0+O26N1wTQfB9PXRu3dmuwN3ZAJwceeJXxDi9dF1VL+qNR2gViegdduFPv3fbjzm0nOfS+cfBvfd/wBuTijrnT62PiJvFico9K/lL+Do05Zz5y78Hf4TUPibG9ZR3VsfD3Hw8j08p6L0f8zfCquxtb+0VL3nvtrHQP8ArDoD9R8Z6rV6ZLUauxQyOpVlPcQY4ylhnuZ5ccOKxbfNPs/ez/4cGDxg0zeZuDPobzW2WrbLVOfnp7f0h3H/AMzVB56kWmrR81PDKMnGXNGTvk3TH3yb4EeGZG+SY2+GMXhnipJIZsfWjVoWIVQWZiFVVBLMx6AADvJPhPoT0a8nDh1G+0A6u4A2t0PZr3ipT5DxPifYBPntGKkEEqQcggkEHzBHdMga+/8APXftrP5zDPjeSOlOhxlR9QcZ4pVpKH1F7ba6lyx8Se4Ko8WJwAPMz5t5m49br9S2ot6bvVrrBytVYztrH2kk+JJM11mpscYeyxxnOHsdhnzwTFAk4OHWK3dsmc7PfehL8Zt/wV/8Widt12srora61gldalnY9wUeM+V6rWQ5RmQ4xlGKnHlkS19Ta42tZYynvVrHYdO7oTM83C+JPVYRy6VRuecuZbOJak3NlalylFX5urPef0mwCfqHgJtPRN+Nafo7/wCG08gikkAAkkgAAZJJ6AAeM3HGeX9Zw9qzejVGxSa2SxT3Y3LlD0IyOnt8ZvKEdOhbWqRkm71H0tPnzhf49X/NH/jtPO/Dbvzt37Sz+crDkHcCd2c7sndnzz5zHDw2jVvdqh5MuqtuR9Uz569In401P0qfwkmiGtu/O3ftbP5ytnLHcxLE95Ykk+8mGDh/Dbd3tRObLrSVUek5H5nbh2o3HLaezC3oOvTwsUflL94yPLHfNPctiLYjBkdQyspyrAjIIPlPl/Mur1dqjC2WKB3BbHAHuAMM/DLI7Tpk4s7gqq0et9Kx/vOz6On9ydq4b+Br+ir/AHRPm/RaS/VWbK1svsKltoJZ9oxk9T3DIjX6jUVO1bvaj1sUZDY4KspwVPXwiycPrjGGr8IoZtEpS08z3vpkP9po+hf9+eM4NxW3S3JfUcOh7j8l1+cjewj/AH0musvZjlmZiOgLMWx9sG6bY8emCi9znyPVNyWx9GcB4vVrKFvqPqt0ZT8qtx8pG9o/kfGeI9MhwNN77/8Atzl1Wpdfku6g9Ttdlz9hhs1Lt8pnbHduZmx9swx8LonqT2NsvEvJj0uO7/0ZvD9fZRat1TbbK2DKfb5HzBGQR5Gd05Y47XrqFuTAb5NleclLB3j3eIPiDPn0PHq1Lr8lmXOM7WZc+WcS82BZF2Zjw+WWFva0+h9Acy8Dr1tBqbAYetVZjJrs8D7vAjynD9dp7KLWptUpZW21lPn5jzBHUHyMxP6Qt/OWf/dv5yp72Y5Ysx82YsftMMOF49rtC4mUczTUaZk9pJ2kxu0k3zY5fCMnfDMTfJAXhnn5IYMTU90InQtB6OqX0VGuu11enquWt7TaiotaupwquWwW3bR1x3k+GDz4CdK5yvRuXeHorqXWzT7lDAsB2F46jw64mGaUk4KLq3QJ8yzWeiyim1Tfr6qtLZtSuywIltlrZxWuW2noM5+7xmv1fo6aridOga/4vUVvZXeKxuGxWLKU3d+VHXPzh7pnelfUK/DtAqOrlajuCsGIPY194H1z0/NHFqKuNcPtayvswmqrdw6lULrtXcfAZIE5o5MlJ6rtS6dkU1Ht2/c53puTw/Fm4Z2xAVnXt+zBJ21dp8jd9XfNnwz0eG3V6mg37KdCyK9vZZewsm/CpnpgZ65Ph9Xtq+X6aeM/0jZqqQt2400kgObDTsb1s4KhQxz7R9es4ed3FtcdPrV017WIa6nFb0alRUuM578N37eoB98HxEmvLL9K6db36E6O66nj+PcsUU6VdfodYupqDjIZeyuQ7tocDv6NjoQCO+eg9IPAtddqtJpX1Hwuy5bhVmlNOle3Zvdtuc9OpP6PQdZl+kTT0nhvaa1dEnFCyhDpOrP6+D3+sV2bic5APd1xNtzbx+jT8U0NzOjVhNVXY6MG7MP2YDHHtx9WYLJJ6Wt35u3RbfP9rE4pWnt+H+Tz49GWm3/BxxCs60JuNOxPLPyN27H+nXE8BxDh9tFz6exfja7OzZV65bw2+YOQR7xOocT5Gpu1lnEG1yV6W0tcXrsVLFJXHq2527fb5dPbOc6rU1Va3taWtuqq1Fdlb3HNtq1spyTgd+049mJrgm5X5tW3aqfazLLGulep7A+jaqqtPheuq0+ptHxdbbNm/p6mSwLdSBkefjMXjfIHwW/SUG8udbaambsgOyI2ZI9b1vlezunpObuAafjHZa+rWVVUrUK7DZghEDFicZG1xuIIPkJkc5auk6zhRSxHRNSxLbwcL8VgsfD65jHNN15t97VcqRpLHHfbbbrz3NN/6ZUJf2FuvRbLFzTVsRbrAAdzbS3d0Pd5GaKjkTUPxF9AHXFah3v2naKmxtbbn5RzjbnvB69JuuZdSh5j07h1KA6X1wwKgZbPXu8fvnoK+YdPRxu5LLEVNTp9MqW7hsFib8IW7hkMfrA84LJkSTTtuN8vj8A8OD6VTor5M5Uo0uuNmn1lWpNddld9QKdpUzEYOFJwMqRgzmnNx/vDU/8AFX/xGnSOUOU6eGaw2WaypjZVYlNeQjtWWVizknrjaPZk/VOY81uDxDUkEEHV3kEHII7Q9QZfDtSyupatlv6kZY1jSqt/se5v9GdNViJbr0QW+rUrIqWW2fkoC/XvH2iLV6M0W40366pHsJ+DVqq9ragGS5Rm8OowM92czI9JeqRuI8OKujKtqlirqQvx1fUkd3d90nNGqQ8xaRw6FFrqywdSo9a3OT3Dv++ZxnkaXm5pvkullvHC35eTS69aPOaLkbUW8Qt0IdQKNrWXlTtFbAFCFz1Yg92fA9ek293o7qsSz4FratTdT0sq+L+V19XKsdh6EDPiJv8ATcwaarjOsptsVE1delFdu8BN6VY27+4E7+ntHtlHLXL1HA2t1mo1db19iaq1UbWZdwb5OTuf1QAB5mOWafV06VKud8xLBHte7vfl2PM8s8htrtIdQLuycWvWa3r9VdjAMWbORgZOMeEtr5DWzUtVTq67NNVStt+pwhStiXHZgK2M4Qnqeg7/AAztNDxRX4DrH3LXZdfqn7PcocCywErjx6MRML0S8bqrW/SWPXVZdh6XtA7Nn2lShzgHHqnGeuTKlPJ55J8ny297CWLH5U1z6++5h38n0W6ezUcO1Y1Y04Jtqas1vgDJK59gJHTrg4M8YHnXtfrNXotLbZrNTw+pmVlqq01G9rvVOF6lTnJ8iAOpM40p6TXBJyu3a6e6RlmxKLVL39WZO+TfKN0O6dBjoLd0kq3SQFpNeBJIBGAlHcQCMFHs98IEYCIhsioPZCqgdwEIEcCFmdiCseQ+yNtGMY6RgIwELZFoUKB3DEIUCNiDEVsBdg78D7IYcSGFghCo8hJgeQkMEdjpAx9kHSQmQmIqgYHkPsEmYpMmYxqIwx7JBju6e7ETMmYD0jdJAAO7A+qLmTMA0j9O/wAZMxMyZgGksUAdwEOZXmEGAtI+YcyvMOYhUWZkiSQCikCECECMBGaNkAjgSASwCIzchQI4EYCMFgZuQoEOI4EmIiLExBLMQGAFZimMYhjLQDEJjGKYGiAYhMYxSYy0gEwZgzAYFUHMGZMwZgMOZMxcyZgOhsw5gzBmAh8wxI2YCoIMbMWCAmh8yRZIBRYBHAkUSxViMpSAolgWFVloWBjKQgWWBYQsbbJMnITEmJZtgIgLUVmVkS4iVmMtMqMRpYZWYzWJWYhljStoG0RDATCYhjNESKTCYIykgwSQQLDJBJAAwwSQEGSCGBIwMaJGEQgySSQEZarLVWRVlyrJbOKUhVWWKsZVloSIwlIQLDtloSNtiM3IoxFIl5ERhGCZQwlbS5hKmgbRZS0qaWvKmlHRERpU0saVtA3iLKzHMUxmiFkhMEZYJJIIDDJBJAAwwQwAkMAhgSyCOIojREhkkkgI2yLLVWFElyJIPJnMCrLAsZVlgWI55TE2ybZZiDbAjUVFZWwl5ErYQLizHcSh5kOJQ4jOmDKHlNkueU2SjrgVtK2ljSpozeIpimMZWYGqJBDBGWSCGCAEhghgBIRJDAQBGEAjAQJsIhkEIERIMSR8SQJs3qy5ZJJmeLMtEsEkkkwYYpkkjEIZUZJIzSJQ8oeSSB1YzHslDySSzrgVtKzBJGdERTFMkkDVAMEkkZZJJJIACNJJACQiSSIlhEYQSQJGWMJJIEMeSSSBJ//Z",
+    "genre": "pop , top40"
+  },
+  {
+    "id": 13,
+    "name": " MNM R&Beats",
+    "url": "http://icecast.vrtcdn.be/mnm_urb-high.mp3",
+    "logo": "https://cds.mnm.be/sites/default/files/styles/800x600_focus/public/article/2018_10/logo_roosrood.png?itok=QsXgQVWq",
+    "genre": "r&b"
+  },
+  {
+    "id": 14,
+    "name": "VRT NWS",
+    "url": "http://progressive-audio.vrtcdn.be/content/fixed/11_11niws-snip_hi.mp3",
+    "logo": "https://cdn-profiles.tunein.com/s45033/images/logod.jpg?t=151637",
+    "genre": "news"
+  },
+  {
+    "id": 15,
+    "name": "VRT Ketnet Hits",
+    "url": "http://icecast.vrtcdn.be/ketnetradio-high.mp3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3f/VRT_Ketnet_logo.png",
+    "genre": "kids"
+  },
+  {
+    "id": 16,
+    "name": "Radyo Fenomen",
+    "url": "https://listen.radyofenomen.com/fenomen/128/icecast.audio",
+    "logo": "https://media.giphy.com/avatars/radyofenomen/ODGNq9WYdbtU.png",
+    "genre": "pop turk"
+  },
+  {
+    "id": 17,
+    "name": "Kral FM",
+    "url": "https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8",
+    "logo": "https://cdn1.kralmuzik.com.tr/media/content/19-05/17/kralfm.png",
+    "genre": "pop turk"
+  },
+  {
+    "id": 18,
+    "name": "Power FM",
+    "url": "https://listen.powerapp.com.tr/powerfm/abr/playlist.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/tr/6/6c/Power_FM_logo.png",
+    "genre": "pop turk"
+  }
+]
