@@ -30,10 +30,6 @@ const Body = () => {
     console.log(product);
   },[]);
 
-  function select(){
-    document.getElementById("choose")
-  }
-
   return (
     <div className="body">
       <ul className="list">
