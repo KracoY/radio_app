@@ -1,23 +1,14 @@
 import React, { useEffect } from "react";
 import "./Stylesheets/player.scss";
-import ReactAudioPlayer from "react-audio-player";
+//import ReactAudioPlayer from "react-audio-player";
 
-const lose = () =>{
-  useEffect(() =>{
-    var link = ("")
-
-
-  })
-}
-
-
-function Player() {
+function Player(props) {
   return (
     <div className="player">
-      <ReactAudioPlayer src= {link} autoPlay controls />
+      {/* <ReactAudioPlayer src={props.url}  controls /> */}
+      <audio src={props.url} controls autoPlay></audio>
     </div>
   );
 }
 
 export default Player;
-  

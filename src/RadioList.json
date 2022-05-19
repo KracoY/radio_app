@@ -109,20 +109,29 @@
     "name": "Radyo Fenomen",
     "url": "https://listen.radyofenomen.com/fenomen/128/icecast.audio",
     "logo": "https://media.giphy.com/avatars/radyofenomen/ODGNq9WYdbtU.png",
-    "genre": "pop turk"
+    "genre":[
+      "pop",
+      "turk"
+    ]
   },
   {
     "id": 17,
     "name": "Kral FM",
     "url": "https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8",
     "logo": "https://cdn1.kralmuzik.com.tr/media/content/19-05/17/kralfm.png",
-    "genre": "pop turk"
+    "genre": [
+      "pop",
+      "turk"
+    ]
   },
   {
     "id": 18,
     "name": "Power FM",
     "url": "https://listen.powerapp.com.tr/powerfm/abr/playlist.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/tr/6/6c/Power_FM_logo.png",
-    "genre": "pop turk"
+    "genre": [
+      "pop",
+      "turk"
+    ]
   }
 ]
