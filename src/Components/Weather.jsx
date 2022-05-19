@@ -31,7 +31,7 @@ function Weather() {
 
       {typeof weatherData.main === "undefined" ? (
         <div>
-          <p>Welkom op mijn eindproject</p>
+          <p className="not">Welkom op mijn eindproject</p>
         </div>
       ) : (
         <div className="weer-data">
@@ -42,10 +42,9 @@ function Weather() {
       )}
 
       {weatherData.cod === "404" ? (
-      <p>City not found</p>
+      <p className="not">City not found</p>
       ) : ( 
-       <>
-       </>
+        <p className="not"></p>
       )}
     </div>
   );

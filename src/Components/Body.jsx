@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 
-import List from "./RadioList";
 import RadioList from "../RadioList.json";
 import { Col, Row } from "react-bootstrap";
 import Player from "./Player";
@@ -9,31 +8,27 @@ import Weather from "./Weather";
 const Body = () => {
   useEffect(() => {
     const list = document.querySelectorAll(".list li");
-    const product = document.querySelectorAll(".row ");
-    list.forEach((item) => {
-      item.addEventListener("click", () => {
-        console.log(item);
-      });
+    const product = document.querySelectorAll(".test div ");
+    
+    list.forEach((i) => {
+      i.addEventListener("click", removeclass);
+      i.addEventListener("click", filter);
     });
-    // list.forEach((i) => {
-    //   i.addEventListener("click", removeclass);
-    //   i.addEventListener("click", filter);
-    // });
-    // function removeclass() {
-    //   list.forEach((el) => {
-    //     el.classList.remove("active");
-    //     this.className = "active";
-    //   });
-    // }
-    // function filter() {
-    //   product.forEach((i) => {
-    //     i.style.display = "none";
-    //     document.querySelectorAll(this.dataset.cat).forEach((j) => {
-    //       j.style.display = "block";
-    //     });
-    //   });
-    // }
-    // console.log(product);
+    function removeclass() {
+      list.forEach((el) => {
+        el.classList.remove("active");
+        this.className = "active";
+      });
+    }
+    function filter() {
+      product.forEach((i) => {
+        i.style.display = "none";
+        document.querySelectorAll(this.dataset.cat).forEach((j) => {
+          j.style.display = "block";
+        });
+      });
+    }
+    console.log(product);
   });
 
   const [url, setUrl] = useState(
@@ -66,7 +61,7 @@ const Body = () => {
           </li>
           <li className="" data-cat=".top40">
             TOP 40
-          </li>
+          </li> 
           <li className="" data-cat=".kids">
             Kids
           </li>
@@ -74,7 +69,7 @@ const Body = () => {
         <div className="main">
           <Row>
             <Col>
-              <div className="row row-flex">
+              <div className="row row-flex test">
                 {RadioList.map((radio, index) => (
                   <div
                     className={"col-md-4 col-sm-6 col-xs-12 test "}

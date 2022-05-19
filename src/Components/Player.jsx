@@ -14,5 +14,5 @@ function Player(props) {
     </div>
   );
 }
-
+ 
 export default Player;
