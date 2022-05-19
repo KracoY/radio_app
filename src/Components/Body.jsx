@@ -4,6 +4,7 @@ import List from "./RadioList";
 import RadioList from "../RadioList.json";
 import { Col, Row } from "react-bootstrap";
 import Player from "./Player";
+import Weather from "./Weather";
 
 const Body = () => {
   useEffect(() => {
@@ -76,18 +77,13 @@ const Body = () => {
               <div className="row row-flex">
                 {RadioList.map((radio, index) => (
                   <div
-                    className={
-                      "col-md-4 col-sm-6 col-xs-12 test "
-                    }
+                    className={"col-md-4 col-sm-6 col-xs-12 test "}
                     key={index}
                     onClick={() => {
                       setUrl(radio.url);
                     }}
                   >
-                    <div
-                      className={"content colour-1 " }
-                      id="choose"
-                    >
+                    <div className={"content colour-1 "} id="choose">
                       <h3>{radio.name}</h3>
                       <img
                         src={radio.logo}
@@ -99,10 +95,8 @@ const Body = () => {
                 ))}
               </div>
             </Col>
-            <Col md={3}>
-              <div className="weather bg-dark">
-                <p>edsrtye</p>
-              </div>
+            <Col md={3} className="weather">
+              <Weather />
             </Col>
           </Row>
         </div>

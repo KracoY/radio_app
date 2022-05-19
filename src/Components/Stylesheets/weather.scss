@@ -1,0 +1,48 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  padding: 25px;
+  color: #332931;
+
+  h2 {
+    font-weight: bolder;
+  }
+
+  .input {
+    padding: 15px;
+    width: 90%;
+    margin: auto;
+    border: 1px solid lightgray;
+    background-color: rgba(255, 255, 255, 0.642);
+    border-radius: 8px;
+    font-size: 16px;
+  }
+
+  .input:focus {
+    outline: none;
+  }
+
+  .weer-data {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .stad {
+      font-size: 30px;
+      font-weight: bolder;
+    }
+
+    .temp {
+      font-size: 90px;
+      padding: 10px;
+      border: 1px solid lightgray;
+      border-radius: 15px;
+    }
+
+    .weer {
+      font-size: 30px;
+      font-weight:bold;
+    }
+  }
+}
